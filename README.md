@@ -2,7 +2,7 @@
 
 **Home rehabilitation tracking for stroke patients — powered by real-time, on-device pose tracking.**
 
-Live demo: `https://gunjan31007.github.io/neurorehab-ai/` 
+Live demo: https://neuro-rehab-ai.vercel.app/
 
 ---
 
